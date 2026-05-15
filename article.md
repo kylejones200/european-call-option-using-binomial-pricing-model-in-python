@@ -159,9 +159,8 @@ c=e(−rt)×(q×Pup​+(1−q)×Pdown​)
 q = (np.exp(-.0025*1)-d)/(u-d)
 print (q)
 # Output: 0.6210265200853019
-```
 
-``` 
+
 c = np.exp(-.0025*1)*(q*Pup+(1-q)*Pdown)
 print(c)
 # Output: 2.5131641975137047
