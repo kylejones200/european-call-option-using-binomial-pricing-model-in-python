@@ -11,14 +11,7 @@ Credit to Kevin Wang who developed the initial version for our Python for Financ
 
 An option is a financial derivative that gives the owner the right, but not the obligation, to buy or sell an underlying asset (such as stocks, commodities, or currencies) at a predetermined price (known as the strike price) within a specified period of time. In this case, we will focus on the European Call Option, which allows the owner to buy the underlying asset at the strike price on or before the expiration date.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
